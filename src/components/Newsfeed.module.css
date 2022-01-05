@@ -1,0 +1,10 @@
+.newsfeed {
+  margin-left: 50px;
+  padding-top: 50px;
+}
+ul {
+  list-style: none;
+}
+li {
+  margin: 20px 20px 20px 0px;
+}
